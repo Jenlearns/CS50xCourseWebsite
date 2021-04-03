@@ -1,0 +1,15 @@
+/* styles.css */
+h1 {
+  text-decoration: underline; text-align: center
+  }
+
+   h2 {
+      color: green; text-align: center
+    }
+    body {
+  background-color: lightseagreen;
+}
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
